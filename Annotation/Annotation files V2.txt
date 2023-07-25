@@ -1,0 +1,17 @@
+File_name	Source	Description
+A-GEOD-21825.adf.txt	https://www.ebi.ac.uk/arrayexpress/files/A-GEOD-21825/?ref=A-GEOD-21825	List of probes
+A-GEOD-21825_comments.txt	https://www.ebi.ac.uk/arrayexpress/files/A-GEOD-21825/?ref=A-GEOD-21825	List of probes, hsa_circRNA names, probe sequence
+A-GEOD-21825_clean.txt	A-GEOD-21825_comments.txt	List of probes, hsa_circRNA names (Reporter Name -> ProbeName; Comment[circRNA] -> circRNA) *to match with data
+
+circRNA_annotation	ArrayStar circRNA analysis	complete annotations for circRNA that were expressed in all samples
+
+journal.pone.0187581	supplementary data (doi: 10.1371/journal.pone.0187581)	annotations for circRNA that were expressed in all samples
+journal.pone.0187581_annotation	supplementary data (doi: 10.1371/journal.pone.0187581)	annotation data
+
+frontiers.2019.00526	supplementary data (doi: 10.3389/fgene.2019.00526)	annotations for circRNA that were expressed in all samples
+frontiers.2019.00526_annotation	supplementary data (doi: 10.3389/fgene.2019.00526)	annotation data
+
+scirep.47189	supplementary data (doi: 10.1038/s41598-019-47189-2)	annotations for circRNA that were expressed in all samples
+scirep.47189_annotation	supplementary data (doi: 10.1038/s41598-019-47189-2)	annotation data
+
+complete_annotations_V2	combined dataset (A_GEOD_21825_clean, circRNA_annotation, journal.pone.0187581_annotation, frontiers.2019.00526_annotation, scirep.47189_annotation)
