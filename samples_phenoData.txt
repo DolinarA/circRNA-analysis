@@ -1,0 +1,9 @@
+"FileName"	Group	Pair	Sex	Name
+"GSM2711988_C349958.txt"	Tumor	2	Female	Tumor2
+"GSM2711989_C349800.txt"	Tumor	3	Female	Tumor3
+"GSM2711990_C356158.txt"	Tumor	4	Female	Tumor4
+"GSM2711991_C346060.txt"	Tumor	1	Male	Tumor1
+"GSM2711992_AT349958.txt"	Normal	2	Female	Normal2
+"GSM2711993_AT349800.txt"	Normal	3	Female	Normal3
+"GSM2711994_AT356158.txt"	Normal	4	Female	Normal4
+"GSM2711995_AT346060.txt"	Normal	1	Male	Normal1

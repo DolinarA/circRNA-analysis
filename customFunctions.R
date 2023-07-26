@@ -80,7 +80,7 @@ samplesDendrogram <- function(input_data, method="spearman", hanging=-1){
 
 #plotCustomRLE
 plotCustomRLE <- function(input_data, colors, title,
-                          x_label="Sample", y_label="log2 expression deviation"){
+                          x_label="Sample", y_label="log2 expression deviation", ylim=c(-2, 2)){
   dat_log2_E <- input_data #data$E or log2(data$E)
   #calculate the median for each probe (row)
   dat_log2_E_rowMedians <- rowMedians(as.matrix(dat_log2_E))
